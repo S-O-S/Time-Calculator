@@ -1,4 +1,4 @@
-### FreeCodeCamp Project
+# Time Calculator [FreeCodeCamp Project]
 
 - ### This is one of the project is made as after attending the free course **Scientific Computing with Python**
 
